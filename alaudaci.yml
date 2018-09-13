@@ -11,4 +11,4 @@ ci:
   - cp Dockerfile $ALAUDACI_DEST_DIR/Dockerfile
   - mkdir -p $ALAUDACI_DEST_DIR/target/
   - cp target/*.jar  $ALAUDACI_DEST_DIR/target/
-#  - sleep 61
+#  - sleep 60
